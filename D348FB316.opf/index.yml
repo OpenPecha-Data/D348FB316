@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   c3ef963a63af41f081366342fee66698:
     parts: {}
+    work_id: N2471
     span:
-    - vol: 47
+    - base: 077a
       start: 0
       end: 2381
-    work_id: N2471
